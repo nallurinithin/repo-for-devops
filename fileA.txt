@@ -1,1 +1,2 @@
 "This is fileA in testing branch" 
+"\n modifying fileA.txt from testing branch"
